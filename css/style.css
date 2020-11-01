@@ -150,6 +150,10 @@ a {
   -webkit-box-shadow: 20px 0 0 #000, -20px 0 0 #000;
   box-shadow: 20px 0 0 #000, -20px 0 0 #000; }
 
+.rounded-circle-custom{
+  border-radius: 10% !important;
+}
+
 .bg-image {
   background-size: cover;
   background-repeat: no-rpeeat;
@@ -1630,5 +1634,5 @@ a {
   }
   
   .logok1{
-    width: 160%;
+    width: 100%;
   }
